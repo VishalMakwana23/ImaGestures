@@ -9,29 +9,49 @@
  - UILabel
  - UIButton
  - UIImageView
- - UIView
+ - UIImagePicker
  - UIAlertView
- - 
- ### How ImaGastures Work
  
- ![](ImaGestures/output/ImaGestures.gif)
- #### Output
+ ## How ImaGastures Work
+ 
+ ![](ImaGestures/output/ImaGesture.gif)
+ 
+ ### Output
+ 
+  - Home
 
 ![](ImaGestures/output/1.png)
 
+ - Notice
+
 ![](ImaGestures/output/2.png)
+
+ - ImaGestures : On Tap - Open Image Picker
 
 ![](ImaGestures/output/3.png)
 
+ - ImaGestures : Image Picker
+
 ![](ImaGestures/output/4.png)
+
+ - ImaGestures : On Pinch - Scale the Image View
 
 ![](ImaGestures/output/5.png)
 
+- ImaGestures : On Pinch - Scale the Image View
+
 ![](ImaGestures/output/6.png)
+
+- ImaGestures : On Rotation - Rotate the Image View
 
 ![](ImaGestures/output/7.png)
 
 ![](ImaGestures/output/8.png)
 
-
+#### Step to Installation
+ 
+ - Dawnload The Project
+ - Make Folder ImaGestures
+ - Paste the Dawnloaded Folder Into It
+ - 
 
