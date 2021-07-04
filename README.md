@@ -2,7 +2,13 @@
  Simple App that Contain Gestures like Tap,Pinch,Rotation,Swipe,Pan
 
 
+### ImaGestures Contain Functionality
 
+ - On Tap: Open Image Picker
+ - On Pinch: Scale the Image View
+ - On Rotation: Rotate the Image View
+ - On Swipe: Move the Image View by some distance in the swipe direction
+ - On Pan: Move the Image View based on Pan location
 
 #### UIElements
  
@@ -11,6 +17,11 @@
  - UIImageView
  - UIImagePicker
  - UIAlertView
+ - UITapGestureRecognizer
+ - UIPinchGestureRecognizer
+ - UIRotationGestureRecognizer
+ - UISwipeGestureRecognizer
+ - UIPanGestureRecognizer
  
  ## How ImaGastures Work
  
