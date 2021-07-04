@@ -14,8 +14,11 @@
  
  ## How ImaGastures Work
  
- [![ImaGestures](https://img.youtube.com/vi/jkzSJxhhHO4)](https://youtu.be/jkzSJxhhHO4)
+ - Click On Imagestures To see Full Demo
+ 
+ [![ImaGestures](https://img.youtube.com/vi/jkzSJxhhHO4)](https://www.youtube.com/watch?v=jkzSJxhhHO4)
 
+ - Short Hand Demo
  
  ![](ImaGestures/output/ImaGesture.gif)
  
