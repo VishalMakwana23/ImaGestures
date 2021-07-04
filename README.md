@@ -14,7 +14,7 @@
  
  ## How ImaGastures Work
  
- - Click On Imagestures To see Full Demo
+ - Click On ImaGestures To see Full Demo
  
  [![ImaGestures](https://img.youtube.com/vi/jkzSJxhhHO4)](https://www.youtube.com/watch?v=jkzSJxhhHO4)
 
