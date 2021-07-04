@@ -11,9 +11,12 @@
  - UIImageView
  - UIView
  - UIAlertView
-
- #### Output
+ - 
+ ### How ImaGastures Work
  
+ ![](ImaGestures/output/ImaGestures.gif)
+ #### Output
+
 ![](ImaGestures/output/1.png)
 
 ![](ImaGestures/output/2.png)
