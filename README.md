@@ -25,9 +25,13 @@
  
  ## How ImaGastures Work
  
- - Click On ImaGestures To see Full Demo
+ - Click On Play To see Full Demo
  
- [![ImaGestures](https://img.youtube.com/vi/jkzSJxhhHO4)](https://www.youtube.com/watch?v=jkzSJxhhHO4)
+
+
+https://user-images.githubusercontent.com/70998696/124694273-8affa000-defe-11eb-8b7f-88408defb91f.mp4
+
+
 
  - Short Hand Demo
  
